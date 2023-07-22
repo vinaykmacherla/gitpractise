@@ -1,5 +1,6 @@
-#Sample Addition code#
 
+#Sample Addition code#
+#Addition code#
 # This program adds two numbers
 
 num1 = 1.5
